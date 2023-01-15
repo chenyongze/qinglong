@@ -10,6 +10,7 @@
 # production
 /static
 /data
+/docker/data
 
 # misc
 .DS_Store

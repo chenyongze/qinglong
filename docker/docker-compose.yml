@@ -1,6 +1,7 @@
 version: '2'
 services:
   web:
+    container_name: qinglong
     image: whyour/qinglong:latest
     volumes:
       - ./data:/ql/data
